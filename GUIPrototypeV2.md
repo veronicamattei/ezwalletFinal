@@ -1,0 +1,45 @@
+# Graphical User Interface Prototype  - FUTURE
+
+Authors: Kamel Fakih, Inaam ElHelwe, Francesco Pio Cellamare, Veronica Mattei
+
+Date: 28/04/2023
+
+Version: 1.0
+
+![](code/images/1.png)
+![](code/images/2.png)
+![](code/images/3.png)
+![](code/images/4.png)
+![](code/images/5.png)
+![](code/images/6.png)
+![](code/images/7.png)
+![](code/images/8.png)
+![](code/images/9.png)
+![](code/images/10.png)
+![](code/images/11.png)
+![](code/images/12.png)
+![](code/images/13.png)
+![](code/images/14.png)
+![](code/images/15.png)
+![](code/images/16.png)
+![](code/images/17.png)
+![](code/images/18.png)
+![](code/images/19.png)
+![](code/images/20.png)
+![](code/images/21.png)
+![](code/images/22.png)
+![](code/images/23.png)
+![](code/images/24.png)
+![](code/images/25.png)
+![](code/images/26.png)
+![](code/images/27.png)
+![](code/images/28.png)
+![](code/images/29.png)
+![](code/images/30.png)
+![](code/images/31.png)
+![](code/images/32.png)
+![](code/images/33.png)
+![](code/images/34.png)
+![](code/images/35.png)
+![](code/images/36.png)
+![](code/images/37.png)
